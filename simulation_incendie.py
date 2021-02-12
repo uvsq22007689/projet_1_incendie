@@ -28,4 +28,5 @@ canvas.grid()
 
 
 
+
 racine.mainloop()
