@@ -4,7 +4,7 @@
 # Marco Laurent De-Riemacker
 # Gabriela Da Luz
 # Abdul-Malik 
-Groupe: BI 1
+#Groupe: BI 1
 #https://github.com/uvsq22007689/projet_1_incendie.git
 ##########################################################
 
@@ -19,4 +19,4 @@ import tkinter as tk
 
 #####################
 # programme principal 
-zz
+
