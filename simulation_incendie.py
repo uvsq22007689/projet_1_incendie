@@ -4,6 +4,7 @@
 # Marco Laurent De-Riemacker
 # Gabriela Da Luz
 # Abdul-Malik 
+# Camelia Rili
 # Groupe: BI 1
 #https://github.com/uvsq22007689/projet_1_incendie.git
 ##########################################################
